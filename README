@@ -1,2 +1,3 @@
 Zadanie 1 z przedmiotu e-biznes
 Obraz dockerowy: https://hub.docker.com/r/shabazzking/ebiznes_zad_1/tags
+Zainstalowane: Python 3.8 (nie jest wskazywany przez symlink /usr/bin/python3, domyślny interpreter to python3.10), OpenJDK 8 (nie jest wskazywany przez mechanizm /etc/alternatives/, domyślna wersja to 11) oraz Kotlin i Gradle.
